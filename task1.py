@@ -21,4 +21,4 @@ def modify_global():
 
 modify_global()
 print(y)
-#hello new version
+#hello new update
